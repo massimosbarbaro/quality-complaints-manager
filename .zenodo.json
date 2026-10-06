@@ -1,6 +1,7 @@
 {
   "title": "Reclami: customer complaint management for a manufacturing quality office (Visual Basic 6, 2000–2003)",
   "upload_type": "software",
+  "publication_date": "2003-05-16",
   "description": "<p><em>Gestione dei reclami clienti per l'ufficio qualità di un'azienda manifatturiera</em></p><p>Reclami is the central application of the quality office of a plastic-film manufacturer. Every customer complaint is linked to the production order (ODL) it refers to and is analysed from two sides: a technical analysis (defect, defect family, acceptance or rejection, corrective actions, quality index) and a commercial analysis (returned kilograms, credit note, amount credited). Complaint cards written by the sales offices arrive by e-mail and are loaded automatically; order and shipment data are imported from the company ERP.</p><p>Designed and programmed by Massimo Sbarbaro in 2000–2003 (Visual Basic 6). Published in 2026; all original data and the names of client organisations have been removed.</p>",
   "creators": [
     {
