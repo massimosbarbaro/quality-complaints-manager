@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Reclami: customer complaint management for a manufacturing quality office (Visual Basic 6, 2000–2003)"
+version: "7.3.4"
+abstract: "Reclami is the central application of the quality office of a plastic-film manufacturer. Every customer complaint is linked to the production order (ODL) it refers to and is analysed from two sides: a technical analysis (defect, defect family, acceptance or rejection, corrective actions, quality index) and a commercial analysis (returned kilograms, credit note, amount credited). Complaint cards written by the sales offices arrive by e-mail and are loaded automatically; order and shipment data are imported from the company ERP."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/quality-complaints-manager-vb6"
+keywords:
+  - "Visual Basic 6"
+  - "quality management"
+  - "customer complaints"
+  - "manufacturing"
+  - "ERP integration"
+  - "legacy software"
