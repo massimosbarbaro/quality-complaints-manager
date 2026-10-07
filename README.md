@@ -1,8 +1,10 @@
 # Reclami: customer complaint management for a manufacturing quality office
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23186681.svg)](https://doi.org/10.5281/zenodo.23186681)
+
 *Gestione dei reclami clienti per l'ufficio qualità di un'azienda manifatturiera*
 
-**Visual Basic 6** · 2000–2003 · version 7.3.4  
+2000–2003 · version 7.3.4  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -31,7 +33,7 @@ DAO 3.6, Microsoft Access object library, Crystal Reports 8.5 (RDC and viewer), 
 
 | Path | Content |
 |---|---|
-| `src/` | Visual Basic 6 project (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
+| `src/` | Project file (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
 | `config-example/` | Templates of the `.ini` configuration files read at start-up, with placeholder values. |
 
 ## What is not included
@@ -40,14 +42,14 @@ Crystal Reports layouts (`.rpt`), compiled executables, installers, scripts for 
 
 ## Related repositories
 
-- [complaint-card-sales-network-vb6](https://github.com/massimosbarbaro/complaint-card-sales-network-vb6)
-- [erp-shipments-to-sales-networks-vb6](https://github.com/massimosbarbaro/erp-shipments-to-sales-networks-vb6)
+- [complaint-card-sales-network](https://github.com/massimosbarbaro/complaint-card-sales-network)
+- [erp-shipments-to-sales-networks](https://github.com/massimosbarbaro/erp-shipments-to-sales-networks)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23186681](https://doi.org/10.5281/zenodo.23186681).
 
-> Sbarbaro, Massimo. *Reclami: customer complaint management for a manufacturing quality office (Visual Basic 6, 2000–2003)*. Software, version 7.3.4. GitHub: https://github.com/massimosbarbaro/quality-complaints-manager-vb6
+> Sbarbaro, Massimo. 2003. *Reclami: customer complaint management for a manufacturing quality office*. Software (2000–2003), version 7.3.4. Zenodo. https://doi.org/10.5281/zenodo.23186681.
 
 ## License
 
