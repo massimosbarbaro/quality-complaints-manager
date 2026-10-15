@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23186681"
 repository-code: "https://github.com/massimosbarbaro/quality-complaints-manager"
 keywords:
-  - "Visual Basic 6"
   - "quality management"
   - "customer complaints"
   - "manufacturing"
