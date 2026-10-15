@@ -18,16 +18,16 @@ I designed and programmed this application in 2000–2003. It is published here 
 - Tree view of all complaints by status, opening the technical (`frmATC`) or commercial (`frmMKG`) analysis.
 - Built-in POP3 client (Winsock) that reads the e-mails sent by the sales offices, recognised by a subject tag and delimiter strings, and inserts them into the `ReclamoVenditore` table (`frmPop3`).
 - Import of order and shipment data from the MFG/PRO ERP: an Attachmate Reflection script runs a query on the host, the result is downloaded by FTP and merged into the `MFG` table (`frmImportMFG`).
-- Quality index, defect-family and sales-network statistics, with Crystal Reports and Microsoft Access reports driven by automation (`frmIQ`, `frmRete`, `frmRicerca`, `frmGrafici`).
+- Quality index, defect-family and sales-network statistics, with Crystal Reports and db reports driven by automation (`frmIQ`, `frmRete`, `frmRicerca`, `frmGrafici`).
 - Role-based access read from a local `UTENTE.ini` file (technical, commercial, read-only).
 
 ## Data
 
-Microsoft Access (Jet) database accessed through DAO 3.6. Main tables: `ATC`, `MKG`, `MFG`, `ReclamoVenditore`, `Famiglia`, `Difetto`, `Linea`, `Causale`, `Parametri`, `Indici`.
+Jet database accessed through DAO 3.6. Main tables: `ATC`, `MKG`, `MFG`, `ReclamoVenditore`, `Famiglia`, `Difetto`, `Linea`, `Causale`, `Parametri`, `Indici`.
 
 ## Technology
 
-DAO 3.6, Microsoft Access object library, Crystal Reports 8.5 (RDC and viewer), Winsock, Common Controls, Tab control, Masked Edit.
+DAO 3.6, db object library, Crystal Reports 8.5 (RDC and viewer), Winsock, Common Controls, Tab control, Masked Edit.
 
 ## Repository contents
 
